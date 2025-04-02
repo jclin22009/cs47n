@@ -221,8 +221,8 @@ const CS47NLandingPage = () => {
                 <div className="flex flex-col md:flex-row items-center">
                   <div className="md:w-2/3 mb-4 md:mb-0 md:mr-4">
                     <p>
-                      In Week 7 (May 13), we'll take a field trip to watch the
-                      SF Giants baseball game. We'll collect our own data and
+                      In Week 7 (May 13), we&apos;ll take a field trip to watch the
+                      SF Giants baseball game. We&apos;ll collect our own data and
                       analyze it using Python-Pandas in the following class.
                       This real-world experience bridges the gap between
                       classroom learning and practical application.
